@@ -1,0 +1,55 @@
+/* SolaimanLipi Font-face */
+@font-face {
+    font-family: 'SolaimanLipi';
+    src: url('solaimanlipi/SolaimanLipi.eot');
+    src: url('solaimanlipi/SolaimanLipi.eot?#iefix') format('embedded-opentype'),
+         url('solaimanlipi/SolaimanLipi.woff2') format('woff2'),
+         url('solaimanlipi/SolaimanLipi.woff') format('woff'),
+         url('solaimanlipi/SolaimanLipi.ttf')  format('truetype'),
+         url('solaimanlipi/SolaimanLipi.svg#SolaimanLipi') format('svg');
+}
+
+/* Kalpurush Font-face */
+@font-face {
+    font-family: 'Kalpurush'; 
+    src: url('kalpurush/kalpurush.eot');
+    src: url('kalpurush/kalpurush.eot?#iefix') format('embedded-opentype'),
+         url('kalpurush/kalpurush.woff2') format('woff2'),
+         url('kalpurush/kalpurush.woff') format('woff'),
+         url('kalpurush/kalpurush.ttf')  format('truetype'),
+         url('kalpurush/kalpurush.svg#Kalpurush') format('svg');
+}
+
+/* Siyam Rupali Font-face */
+@font-face {
+    font-family: 'Siyam Rupali';
+    src: url('siyamrupali/Siyamrupali.eot');
+    src: url('siyamrupali/Siyamrupali.eot?#iefix') format('embedded-opentype'),
+         url('siyamrupali/Siyamrupali.woff2') format('woff2'),
+         url('siyamrupali/Siyamrupali.woff') format('woff'),
+         url('siyamrupali/Siyamrupali.ttf')  format('truetype'),
+         url('siyamrupali/Siyamrupali.svg#Siyam Rupali') format('svg');
+}
+
+/* Ekushey Bangla Kolom Font-face */
+@font-face {
+    font-family: 'Ekushey Bangla Kolom';
+    src: url('banglakolom/Banglakolom.eot');
+    src: url('banglakolom/Banglakolom.eot?#iefix') format('embedded-opentype'),
+         url('banglakolom/Banglakolom.woff2') format('woff2'),
+         url('banglakolom/Banglakolom.woff') format('woff'),
+         url('banglakolom/Banglakolom.ttf')  format('truetype'),
+         url('banglakolom/Banglakolom.svg#Ekushey Bangla Kolom') format('svg');
+}
+
+/* Bangla Font-face */
+@font-face {
+    font-family: 'Bangla';
+    src: url('bangla/Bangla.eot');
+    src: url('bangla/Bangla.eot?#iefix') format('embedded-opentype'),
+         url('bangla/Bangla.woff2') format('woff2'),
+         url('bangla/Bangla.woff') format('woff'),
+         url('bangla/Bangla.ttf')  format('truetype'),
+         url('bangla/Bangla.svg#Bangla') format('svg');
+}
+
