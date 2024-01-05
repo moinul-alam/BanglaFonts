@@ -45,11 +45,11 @@
 /* Bangla Font-face */
 @font-face {
     font-family: 'Bangla';
-    src: url('bangla/Bangla.eot');
-    src: url('bangla/Bangla.eot?#iefix') format('embedded-opentype'),
-         url('bangla/Bangla.woff2') format('woff2'),
-         url('bangla/Bangla.woff') format('woff'),
-         url('bangla/Bangla.ttf')  format('truetype'),
-         url('bangla/Bangla.svg#Bangla') format('svg');
+    src: url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.eot');
+    src: url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.woff2') format('woff2'),
+         url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.woff') format('woff'),
+         url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.ttf')  format('truetype'),
+         url('https://github.com/moinul-alam/BanglaFonts/tree/main/bangla/Bangla.svg#Bangla') format('svg');
 }
 
